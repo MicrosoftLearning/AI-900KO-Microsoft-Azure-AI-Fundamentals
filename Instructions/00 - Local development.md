@@ -15,5 +15,5 @@
 ### Visual Studio Code 
 1. Visual Studio Code가 아직 설치되어 있지 않으면 [여기에서 다운로드](https://code.visualstudio.com/Download)하세요. 설치 후에 Visual Studio Code를 실행하고 확장 프로그램 탭(CTRL+SHIFT+X)에서 Microsoft의 **Python** 확장 프로그램을 검색하여 설치합니다.
 
-2. Visual Studio Code에서 새 터미널을 열고, **git clone https://github.com/MicrosoftLearning/mslearn-ai900**을 입력하고, *들어가기*를 선택합니다. 
+2. Visual Studio Code에서 새 터미널을 열고, **git clone https://github.com/MicrosoftLearning/AI-900KO-Microsoft-Azure-AI-Fundamentals** 을 입력하고, *들어가기*를 선택합니다. 
 

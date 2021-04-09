@@ -6,7 +6,7 @@ lab:
 ## 지침
 이 랩에서는 Azure Machine Learning에서 자동화된 Machine Learning을 사용하는 방법에 대해 알아봅니다.
 
-1.	Microsoft Learn 모듈(+++https://docs.microsoft.com/learn/modules/use-automated-machine-learning/+++)로 이동하고 브라우저에서 다음 유닛을 완료합니다. 
+1.	Microsoft Learn 모듈(+++https://docs.microsoft.com/learn/modules/use-automated-machine-learning/+++) 로 이동하고 브라우저에서 다음 유닛을 완료합니다. 
 
 - 기계 학습이란 무엇인가요? 
 - Azure Machine Learning 작업 영역 만들기

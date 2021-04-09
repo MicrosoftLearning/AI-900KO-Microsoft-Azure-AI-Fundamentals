@@ -1,6 +1,6 @@
 ﻿# Microsoft Azure AI 기본 사항 연습
 
-이 리포지토리에는 Microsoft 과정 [AI-900 *Microsoft Azure AI 기본 사항*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00)에 대한 실습 랩 연습 그리고 [Microsoft Learn이 자기 주도적 모듈](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)이 포함되어 있습니다. 랩은 학습 자료와 함께 진행할 수 있으며, 설명되어 있는 기술을 사용하여 연습할 수 있게 도와줍니다. 
+이 리포지토리에는 Microsoft 과정 [AI-900 *Microsoft Azure AI 기본 사항*](https://docs.microsoft.com/ko-kr/learn/certifications/courses/ai-900t00)에 대한 실습 랩 연습 그리고 [Microsoft Learn이 자기 주도적 모듈](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)이 포함되어 있습니다. 랩은 학습 자료와 함께 진행할 수 있으며, 설명되어 있는 기술을 사용하여 연습할 수 있게 도와줍니다. 
 
 ## Microsoft의 역할
 

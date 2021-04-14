@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Form Recognizer를 사용하여 영수증 분석'
 ---

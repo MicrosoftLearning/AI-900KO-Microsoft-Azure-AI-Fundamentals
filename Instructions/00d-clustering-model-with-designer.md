@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning 디자이너를 사용하여 클러스터링 모델 만들기'
 ---

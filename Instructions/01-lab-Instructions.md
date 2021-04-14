@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Computer Vision을 사용하여 이미지 분석'
 ---

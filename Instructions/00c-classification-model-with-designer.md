@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning 디자이너를 사용하여 분류 모델 만들기'
 ---

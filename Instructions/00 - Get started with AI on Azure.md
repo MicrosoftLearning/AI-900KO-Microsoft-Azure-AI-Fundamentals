@@ -4,8 +4,10 @@ lab:
 ---
 
 ## 지침
-이 랩에서는 책임 있는 AI를 위한 지침에 대해 알아봅니다.
+Microsoft의 책임있는 AI 원칙을 살펴봅시다.
 
-1.	[인간-AI 상호 작용 가이드라인 데모](https://aka.ms/hci-demo)로 이동합니다.
-2.	각 덱에서 카드를 선택하고 예제 시나리오를 검토합니다.
-3.	예제가 보여주는 책임 있는 AI 원칙을 식별합니다.
+1.	[책임있는 AI 이해](https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/7-understand-responsible-ai?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.get-started-with-artificial-intelligence-on-azure)로 이동합니다.
+2.	6개 원칙 각각의 설명을 살펴봅니다.
+3.	개별 원칙들이 각기 어떻게 다른지 아시겠습니까?
+
+[여기](https://www.microsoft.com/ai/responsible-ai)에서 Microsoft의 책임있는 AI에 대한 자세한 내용을 확인할 수 있습니다.
